@@ -44,6 +44,11 @@ exclude: [
     .DS_Store
 ]
 
+collections:
+  - faqs
+
+collections_dir: collections
+
 # Theme Settings
 analytics: 
 google_verification:
